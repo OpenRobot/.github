@@ -1,5 +1,5 @@
 # 👋 Hi! Welcome to the OpenRobot GitHub Organization
-![Banner of OpenRobot](https://github.com/OpenRobot/.github/blob/main/assets/OpenRobot%20Banner%204.png?raw=true)
+[![Banner of OpenRobot](https://github.com/OpenRobot/.github/blob/main/assets/OpenRobot%20Banner%204.png?raw=true)](https://openrobot.xyz/)
 
 **Hi to whoever reading this, we are OpenRobot, where we make Open Source Robots, especially Discord Bots. We believe in the Future of Bots and Open Source.**
 
