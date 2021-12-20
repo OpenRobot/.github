@@ -113,7 +113,7 @@
         <ul>
             <li><a href="https://github.com/alexiiycx1">Alex</a></li>
             <li><a href="https://github.com/Techrosity">Techrosity</a></li>
-            <!-- <li><a href="https://github.com/Nalsra7">NalsrA</a></li> -->
+            <li><a href="https://github.com/FrostiiWeeb">FrostiiWeeb</a></li>
             <!-- <li><a href="https://github.com/evandiscordbot">evanbot</a></li> -->
         </ul>
     </ul>
