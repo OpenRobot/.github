@@ -92,7 +92,7 @@
         OpenRobot used to have around 20-30+ repositories. 
         Understanably so, <a href="https://github.com/whyfai">whyfai</a> removed the OpenRobot Organization, in result of <b><em>most</em></b> of OpenRobot's code being deleted, when we only had <b>some</b> backup left.
         <br>
-        Though most OpenRobot Services such as our <a href="https://api.openrobot.xyz">API</a>, <a href="https://discord.com/users/759591316627128320">Discord Bot</a>, <a href="https://openrobot.xyz">Website</a>, Database and <a href="https://cdn.openrobot.xyz">CDN</a> are all still running perfectly fine.
+        Though most OpenRobot Services such as our <a href="https://api.openrobot.xyz">API</a>, <a href="https://discord.com/users/759591316627128320">Discord Bot</a>, <a href="https://openrobot.xyz">Website</a>, Database and <a href="https://cdn.openrobot.xyz">CDN</a> are all still running perfectly fine, our <a href="https://repi.openrobot.xyz">RePI API</a> and <a href="https://api.openrobot.xyz">OpenRobot API</a> is private-sourced because a developer who founded this API wanted it to be private.
     </ul>
 </details>
 
