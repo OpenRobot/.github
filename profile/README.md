@@ -1,3 +1,6 @@
+# ⚠️ Warning ⚠️
+This organization is discontinued or no longer in active development. Please visit our current active organization at [@YodaBotOS](https://github.com/YodaBotOS)
+
 # 👋 Hi! Welcome to the OpenRobot GitHub Organization
 [![Banner of OpenRobot](https://github.com/OpenRobot/.github/blob/main/assets/OpenRobot%20Banner%204.png?raw=true)](https://openrobot.xyz/)
 
